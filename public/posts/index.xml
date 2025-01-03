@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NeurIPS 2024 Machine Learning Paper Review</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on NeurIPS 2024 Machine Learning Paper Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Tokens to Mastery: How AGILE is Redefining AI Decision-Making</title>
+      <link>http://localhost:1313/posts/agile-review/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/agile-review/</guid>
+      
+      <description>Artificial intelligence (AI) agents have come a long way from simply answering questions. Imagine a customer asking, &amp;ldquo;Will this camera case work for macro photography?&amp;rdquo; A good AI might say &amp;ldquo;no&amp;rdquo; based on product details, but a great AI would explain why it&amp;rsquo;s unsuitable, consult past knowledge, seek expert advice if necessary, and learn for next time. At NeurIPS 2024, researchers introduced AGILE (AGent that Interacts and Learns from Environments), a groundbreaking framework that teaches AI agents to think, adapt, and grow.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
