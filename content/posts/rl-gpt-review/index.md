@@ -1,5 +1,5 @@
 ---
-title: "Review of the Blog on RL-GPT (NeurIPS 2024)
+title: "Review of the Blog on RL-GPT (NeurIPS 2024)"
 date: 2025-01-09
 author: Wasif Hamid, Asif Al Shahriar
 description: A review of the blog on the paper published on RL-GPT in NeurIPS 2024
