@@ -100,7 +100,7 @@ theme = "hugo-blog-awesome"
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "NeurIPS 2024 Machine Learning Paper Review"
-  name = "Wasif Hamid, Asif Al Shahriar"
+  name = "Wasif Hamid, Asif Al Shahriar, Emran Mostofa"
   description = "A simple blog page for CSE471 Assignment"
 
 # Allow to override webmanifest options
@@ -118,12 +118,5 @@ theme = "hugo-blog-awesome"
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/Shitdroid"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/barneystinson73"
 
 
