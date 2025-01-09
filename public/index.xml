@@ -6,7 +6,19 @@
     <description>Recent content in Home on NeurIPS 2024 Machine Learning Paper Review</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review of the Blog &#34;Unveiling the Power of Linear Transformers&#34;</title>
+      <link>http://localhost:1313/posts/linear-review/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/linear-review/</guid>
+      
+      <description>Review of the Blog &amp;ldquo;Unveiling the Power of Linear Transformers&amp;rdquo; The blog &amp;ldquo;Unveiling the Power of Linear Transformers&amp;rdquo; provides a solid introduction to the topic, outlining the computational advantages and novel capabilities of linear transformers, such as kernelized self-attention. The structure is clear, and the visual aids effectively complement the content. Key sections like &amp;ldquo;Why Study Linear Transformers?&amp;rdquo; and &amp;ldquo;Key Contributions&amp;rdquo; emphasize the main takeaways from the research.
+One of the blog&amp;rsquo;s key strengths is its ability to distill complex topics like kernelized self-attention and recursive updates into a digestible format.</description>
+      
+    </item>
+    
     <item>
       <title>From Tokens to Mastery: How AGILE is Redefining AI Decision-Making</title>
       <link>http://localhost:1313/posts/agile-review/</link>

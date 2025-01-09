@@ -1,4 +1,9 @@
-# Review of the Blog "Unveiling the Power of Linear Transformers"
+---
+title: "Review of the Blog \"Unveiling the Power of Linear Transformers\""
+date: 2025-01-09
+author: Wasif Hamid, Asif Al Shahriar
+description: A review of the blog on the paper published on Linear transformers in NeurIPS 2024
+---
 
 The blog "Unveiling the Power of Linear Transformers" provides a solid introduction to the topic, outlining the computational advantages and novel capabilities of linear transformers, such as kernelized self-attention. The structure is clear, and the visual aids effectively complement the content. Key sections like "Why Study Linear Transformers?" and "Key Contributions" emphasize the main takeaways from the research.
 
@@ -13,4 +18,4 @@ In summary, while the blog effectively conveys the significance of linear transf
 ---
 
 **Read the review here:**
-[Lara, K., Kazi, I.T. (2025). Unveiling the Power of Linear Transformers](Unveiling the Power of Linear Transformers)
+[Lara, K., Kazi, I.T. (2025). Unveiling the Power of Linear Transformers](https://github.com/Superb-Man/blog/tree/master)
